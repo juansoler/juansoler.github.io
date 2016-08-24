@@ -1,0 +1,34 @@
+[
+	{
+		"name": "Delitos Informaticos",
+		"image": "placeholder.jpg",
+		"url": "#",
+		"descripcion":"Curso realizado mediante teleformación",
+		"date": "Jan 2014",
+		"tags": ["Curso de teleformación"]
+	},
+	{
+		"name": "Ingenieria Informatica",
+		"image": "placeholder.jpg",
+		"url": "#",
+		"descripcion": "Actualmente matriculado",
+		"date": "May 2014",
+		"tags": ["Universidad de Almeria"]
+	},
+	{
+		"name": "Programación Python",
+		"image": "placeholder.jpg",
+		"url": "#",
+		"date": "June 2014",
+		"tags": ["Online"]
+	},
+	{
+		"name": "Programación Jekyll",
+		"image": "placeholder.jpg",
+		"url": "#",
+		"date": "June 2014",
+		"tags": ["Online"]
+	}
+
+
+]

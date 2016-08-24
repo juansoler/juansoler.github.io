@@ -1,0 +1,35 @@
+[
+  {
+    "text": "Inicio",
+    "url": "/",
+    "icon": "fa-home",
+    "layout": "post"
+  },
+  {
+    "text": "Acerca",
+    "url": "/about/",
+    "icon": "fa-comments"
+  },
+  {
+    "text": "Proyectos",
+    "url": "/projects",
+    "icon": "fa-desktop"
+  },
+  {
+    "text": "Resume",
+    "url": "/academic",
+    "icon": "fa-graduation-cap",
+    "layout": "post"
+  },
+  {
+    "text": "Github",
+    "url": "https://github.com/juansoler",
+    "icon": "fa-github"
+  },
+  {
+    "text": "XML Feed",
+    "url": "/feed.xml",
+    "icon": "fa-feed",
+    "target": _blank
+  }
+]
