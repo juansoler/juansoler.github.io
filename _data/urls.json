@@ -27,6 +27,12 @@
     "icon": "fa-github"
   },
   {
+    "text": "Citas",
+    "url": "/citas",
+    "icon": "fa-paragraph"
+    "layout": "post"
+  },
+  {
     "text": "XML Feed",
     "url": "/feed.xml",
     "icon": "fa-feed",
